@@ -3,24 +3,24 @@
 GestaIP is a software for business management with web interface.
 
 ## Installation
-Copy the program files to the WEB SERVER folder
-Install php - https://www.php.net/
-Install MariaDB - https://mariadb.org/
-Required JQuery
-Required TinyMCE
-Required Blatt Email or other software for send email
-Required Wkhtmltopdf or other software for converter html file in PDF File
-Required OpenSSL or other software for decripted electronic invoice signed
+Copy the program files to the WEB SERVER folder # returns
+Install php - https://www.php.net/ # returns
+Install MariaDB - https://mariadb.org/ # returns
+Required JQuery # returns
+Required TinyMCE # returns
+Required Blatt Email or other software for send email # returns
+Required Wkhtmltopdf or other software for converter html file in PDF File # returns
+Required OpenSSL or other software for decripted electronic invoice signed # returns
 
 ## Usage
-Warehouse management
-Supplier order management
-Customer order management
-First note management
-Deadlines
-Transport documents
-Invoices (also electronic invoices)
-Everything you need to manage a small / medium company.
+Warehouse management # returns
+Supplier order management # returns
+Customer order management # returns
+First note management # returns
+Deadlines # returns
+Transport documents # returns
+Invoices (also electronic invoices) # returns
+Everything you need to manage a small / medium company # returns
 
 ## Contributing
 
