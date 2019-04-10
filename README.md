@@ -10,3 +10,16 @@ Deadlines
 Transport documents
 Invoices (also electronic invoices)
 Everything you need to manage a small / medium company.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+## Usage
+
+
+## Contributing
+
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
